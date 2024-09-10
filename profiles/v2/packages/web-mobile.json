@@ -1,0 +1,30 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "buildPath": "project://build",
+      "outputName": "web-mobile",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "web-mobile",
+      "name": "wldd",
+      "scenes": [
+        {
+          "url": "db://assets/scene.scene",
+          "uuid": "6a0eb724-f6e3-4cfb-bb5d-9e6c5eabe645"
+        }
+      ]
+    },
+    "taskOptionsMap": {
+      "1710837211278": {
+        "orientation": "auto",
+        "embedWebDebugger": false,
+        "cullEngineAsmJsModule": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}

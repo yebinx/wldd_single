@@ -1,0 +1,13 @@
+
+win_end_light.png
+size: 320,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiguang
+  rotate: false
+  xy: 2, 2
+  size: 316, 288
+  orig: 316, 288
+  offset: 0, 0
+  index: -1

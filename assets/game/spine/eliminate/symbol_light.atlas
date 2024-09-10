@@ -1,0 +1,125 @@
+
+symbol_light.png
+size: 1756,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s1
+  rotate: false
+  xy: 1570, 344
+  size: 184, 173
+  orig: 299, 264
+  offset: 63, 72
+  index: -1
+s10
+  rotate: true
+  xy: 479, 268
+  size: 249, 246
+  orig: 299, 264
+  offset: 28, 13
+  index: -1
+s11
+  rotate: false
+  xy: 919, 22
+  size: 243, 244
+  orig: 299, 264
+  offset: 24, 9
+  index: -1
+s12
+  rotate: true
+  xy: 2, 240
+  size: 277, 249
+  orig: 299, 264
+  offset: 22, 1
+  index: -1
+s13
+  rotate: false
+  xy: 673, 17
+  size: 244, 249
+  orig: 299, 264
+  offset: 16, 0
+  index: -1
+s14
+  rotate: true
+  xy: 253, 266
+  size: 251, 224
+  orig: 299, 264
+  offset: 11, 0
+  index: -1
+s15
+  rotate: false
+  xy: 1370, 87
+  size: 188, 214
+  orig: 299, 264
+  offset: 9, 0
+  index: -1
+s16
+  rotate: false
+  xy: 1570, 171
+  size: 181, 171
+  orig: 299, 264
+  offset: 0, 43
+  index: -1
+s17
+  rotate: false
+  xy: 1560, 2
+  size: 162, 167
+  orig: 299, 264
+  offset: 22, 41
+  index: -1
+s2
+  rotate: true
+  xy: 1376, 304
+  size: 213, 192
+  orig: 299, 264
+  offset: 39, 59
+  index: -1
+s3
+  rotate: true
+  xy: 1176, 303
+  size: 214, 198
+  orig: 299, 264
+  offset: 47, 59
+  index: -1
+s4
+  rotate: true
+  xy: 1164, 69
+  size: 218, 204
+  orig: 299, 264
+  offset: 46, 58
+  index: -1
+s5
+  rotate: true
+  xy: 960, 289
+  size: 228, 214
+  orig: 299, 264
+  offset: 38, 50
+  index: -1
+s6
+  rotate: true
+  xy: 223, 4
+  size: 234, 214
+  orig: 299, 264
+  offset: 32, 45
+  index: -1
+s7
+  rotate: true
+  xy: 2, 2
+  size: 236, 219
+  orig: 299, 264
+  offset: 28, 41
+  index: -1
+s8
+  rotate: true
+  xy: 439, 14
+  size: 250, 232
+  orig: 299, 264
+  offset: 23, 28
+  index: -1
+s9
+  rotate: true
+  xy: 727, 268
+  size: 249, 231
+  orig: 299, 264
+  offset: 21, 25
+  index: -1

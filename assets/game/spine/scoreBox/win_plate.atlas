@@ -1,0 +1,334 @@
+
+win_plate.png
+size: 2010,2025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: true
+  xy: 850, 630
+  size: 217, 145
+  orig: 252, 162
+  offset: 16, 7
+  index: -1
+d10
+  rotate: false
+  xy: 1480, 710
+  size: 233, 152
+  orig: 252, 162
+  offset: 12, 0
+  index: -1
+d11
+  rotate: false
+  xy: 1720, 1224
+  size: 233, 145
+  orig: 252, 162
+  offset: 7, 8
+  index: -1
+d12
+  rotate: false
+  xy: 1485, 864
+  size: 233, 152
+  orig: 252, 162
+  offset: 4, 0
+  index: -1
+d13
+  rotate: false
+  xy: 1590, 2
+  size: 232, 152
+  orig: 252, 162
+  offset: 0, 0
+  index: -1
+d14
+  rotate: false
+  xy: 1715, 710
+  size: 224, 152
+  orig: 252, 162
+  offset: 4, 0
+  index: -1
+d15
+  rotate: true
+  xy: 696, 629
+  size: 218, 152
+  orig: 252, 162
+  offset: 7, 0
+  index: -1
+d16
+  rotate: false
+  xy: 546, 1626
+  size: 203, 152
+  orig: 252, 162
+  offset: 9, 0
+  index: -1
+d17
+  rotate: false
+  xy: 546, 1486
+  size: 179, 138
+  orig: 252, 162
+  offset: 20, 0
+  index: -1
+d18
+  rotate: false
+  xy: 546, 1371
+  size: 171, 113
+  orig: 252, 162
+  offset: 14, 24
+  index: -1
+d2
+  rotate: false
+  xy: 1240, 695
+  size: 238, 152
+  orig: 252, 162
+  offset: 2, 6
+  index: -1
+d3
+  rotate: false
+  xy: 997, 695
+  size: 241, 152
+  orig: 252, 162
+  offset: 3, 4
+  index: -1
+d4
+  rotate: true
+  xy: 543, 1120
+  size: 249, 160
+  orig: 252, 162
+  offset: 3, 2
+  index: -1
+d5
+  rotate: false
+  xy: 1355, 2
+  size: 233, 152
+  orig: 252, 162
+  offset: 18, 1
+  index: -1
+d6
+  rotate: false
+  xy: 1118, 2
+  size: 235, 152
+  orig: 252, 162
+  offset: 17, 1
+  index: -1
+d7
+  rotate: false
+  xy: 1245, 864
+  size: 238, 152
+  orig: 252, 162
+  offset: 14, 0
+  index: -1
+d8
+  rotate: true
+  xy: 542, 628
+  size: 248, 152
+  orig: 252, 162
+  offset: 4, 0
+  index: -1
+d9
+  rotate: true
+  xy: 543, 878
+  size: 240, 153
+  orig: 252, 162
+  offset: 8, 0
+  index: -1
+e1
+  rotate: true
+  xy: 1271, 1018
+  size: 541, 244
+  orig: 549, 308
+  offset: 3, 16
+  index: -1
+e10
+  rotate: true
+  xy: 1118, 156
+  size: 537, 284
+  orig: 549, 308
+  offset: 2, 14
+  index: -1
+e11
+  rotate: true
+  xy: 541, 89
+  size: 537, 287
+  orig: 549, 308
+  offset: 2, 15
+  index: -1
+e12
+  rotate: false
+  xy: 2, 1482
+  size: 542, 296
+  orig: 549, 308
+  offset: 2, 8
+  index: -1
+e13
+  rotate: false
+  xy: 2, 84
+  size: 537, 288
+  orig: 549, 308
+  offset: 2, 16
+  index: -1
+e14
+  rotate: false
+  xy: 2, 374
+  size: 537, 292
+  orig: 549, 308
+  offset: 2, 16
+  index: -1
+e15
+  rotate: true
+  xy: 830, 90
+  size: 537, 286
+  orig: 549, 308
+  offset: 2, 16
+  index: -1
+e16
+  rotate: false
+  xy: 2, 668
+  size: 538, 272
+  orig: 549, 308
+  offset: 2, 16
+  index: -1
+e17
+  rotate: false
+  xy: 705, 849
+  size: 538, 273
+  orig: 549, 308
+  offset: 2, 15
+  index: -1
+e18
+  rotate: false
+  xy: 2, 1208
+  size: 539, 272
+  orig: 549, 308
+  offset: 2, 20
+  index: -1
+e20
+  rotate: false
+  xy: 1518, 1743
+  size: 490, 280
+  orig: 549, 308
+  offset: 34, 13
+  index: -1
+e21
+  rotate: false
+  xy: 1518, 1371
+  size: 474, 256
+  orig: 549, 308
+  offset: 32, 33
+  index: -1
+e3
+  rotate: false
+  xy: 2, 942
+  size: 539, 264
+  orig: 549, 308
+  offset: 2, 11
+  index: -1
+e4
+  rotate: false
+  xy: 719, 1124
+  size: 539, 266
+  orig: 549, 308
+  offset: 0, 13
+  index: -1
+e8
+  rotate: true
+  xy: 1688, 171
+  size: 537, 280
+  orig: 549, 308
+  offset: 2, 14
+  index: -1
+e9
+  rotate: true
+  xy: 1404, 156
+  size: 537, 282
+  orig: 549, 308
+  offset: 1, 14
+  index: -1
+jinbianguang
+  rotate: false
+  xy: 727, 1392
+  size: 542, 167
+  orig: 542, 167
+  offset: 0, 0
+  index: -1
+plate1
+  rotate: false
+  xy: 760, 1561
+  size: 756, 225
+  orig: 756, 225
+  offset: 0, 0
+  index: -1
+plate2
+  rotate: false
+  xy: 760, 1788
+  size: 756, 235
+  orig: 756, 235
+  offset: 0, 0
+  index: -1
+plate3
+  rotate: false
+  xy: 2, 1780
+  size: 756, 243
+  orig: 756, 243
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 6
+  size: 146, 76
+  orig: 146, 76
+  offset: 0, 0
+  index: -1
+sheguang
+  rotate: false
+  xy: 1518, 1629
+  size: 480, 112
+  orig: 480, 112
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 150, 18
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+
+win_plate2.png
+size: 1368,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e19
+  rotate: true
+  xy: 832, 8
+  size: 531, 272
+  orig: 549, 308
+  offset: 11, 18
+  index: -1
+e2
+  rotate: true
+  xy: 1106, 2
+  size: 537, 260
+  orig: 549, 308
+  offset: 2, 10
+  index: -1
+e5
+  rotate: true
+  xy: 2, 2
+  size: 537, 276
+  orig: 549, 308
+  offset: 2, 13
+  index: -1
+e6
+  rotate: true
+  xy: 558, 2
+  size: 537, 272
+  orig: 549, 308
+  offset: 2, 14
+  index: -1
+e7
+  rotate: true
+  xy: 280, 2
+  size: 537, 276
+  orig: 549, 308
+  offset: 2, 14
+  index: -1

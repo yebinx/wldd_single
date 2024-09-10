@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0@6c48a",
+      "displayName": "candle_light",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0@f9941",
+      "displayName": "candle_light",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 2,
+        "trimY": 2,
+        "width": 406,
+        "height": 546,
+        "rawWidth": 410,
+        "rawHeight": 550,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -203,
+            -273,
+            0,
+            203,
+            -273,
+            0,
+            -203,
+            273,
+            0,
+            203,
+            273,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            2,
+            548,
+            408,
+            548,
+            2,
+            2,
+            408,
+            2
+          ],
+          "nuv": [
+            0.004878048780487805,
+            0.0036363636363636364,
+            0.9951219512195122,
+            0.0036363636363636364,
+            0.004878048780487805,
+            0.9963636363636363,
+            0.9951219512195122,
+            0.9963636363636363
+          ],
+          "minPos": [
+            -203,
+            -273,
+            0
+          ],
+          "maxPos": [
+            203,
+            273,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": true,
+    "redirect": "7a5e1345-4bd0-4b61-ad12-265e43bd57f0@f9941"
+  }
+}

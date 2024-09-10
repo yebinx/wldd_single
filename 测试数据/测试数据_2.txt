@@ -1,0 +1,2339 @@
+1,
+{
+    "error_code": 0,
+    "data": {
+        "player_info": {
+            "id": 4598,
+            "balance": 99961000,
+            "account": "try_hkEpOe7PdBscqJsr",
+            "nickname": "试玩ImJIH50MoT",
+            "type": 0,
+            "mute": 0
+        },
+        "game_info": {
+            "id": 4598,
+            "free_play_times": 0,
+            "last_time_bet": 60000,
+            "last_time_bet_id": 10,
+            "last_time_bet_size": 300,
+            "last_time_basic_bet": 20,
+            "last_time_bet_multiple": 10,
+            "free_total_times": 0,
+            "free_remain_times": 0,
+            "free_game_total_win": 0,
+            "total_bet": 180000,
+            "total_bet_times": 3,
+            "total_free_times": 0,
+            "last_win": 57000
+        },
+        "list": [
+            {
+                "item_type_list": [
+                    3,
+                    6,
+                    11,
+                    5,
+                    10
+                ]
+            },
+            {
+                "item_type_list": [
+                    11,
+                    11,
+                    27,
+                    3,
+                    10
+                ]
+            },
+            {
+                "item_type_list": [
+                    10,
+                    5,
+                    2,
+                    8,
+                    19
+                ]
+            },
+            {
+                "item_type_list": [
+                    9,
+                    7,
+                    3,
+                    5,
+                    3
+                ]
+            },
+            {
+                "item_type_list": [
+                    5,
+                    8,
+                    11,
+                    8,
+                    10
+                ]
+            }
+        ],
+        "lastRound": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        5,
+                        10,
+                        9,
+                        6,
+                        3,
+                        9,
+                        6,
+                        10,
+                        2,
+                        8,
+                        19,
+                        6,
+                        3,
+                        5,
+                        6,
+                        3,
+                        11,
+                        8,
+                        10,
+                        6
+                    ],
+                    "round_rate": 15,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                6,
+                                11,
+                                14,
+                                19
+                            ],
+                            "count": 1,
+                            "level": 5,
+                            "item_type": 6,
+                            "rate": 15,
+                            "win": 45000,
+                            "win_s": "4.50"
+                        }
+                    ],
+                    "next_list": [
+                        11,
+                        27,
+                        9,
+                        7,
+                        8
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        6,
+                        11,
+                        14,
+                        19
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                11,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                27,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                5
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                5
+                            ]
+                        }
+                    ],
+                    "round_id": "9756469093",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                5,
+                                10,
+                                9,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                3,
+                                9,
+                                6,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                2,
+                                8,
+                                19,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                3,
+                                5,
+                                6,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                8,
+                                10,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 15,
+                    "free_play": 0,
+                    "balance": 99949000,
+                    "balance_s": "9994.90",
+                    "win_s": "4.50",
+                    "win": 45000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        11,
+                        5,
+                        10,
+                        9,
+                        27,
+                        3,
+                        9,
+                        10,
+                        9,
+                        2,
+                        8,
+                        19,
+                        7,
+                        3,
+                        5,
+                        3,
+                        8,
+                        11,
+                        8,
+                        10
+                    ],
+                    "round_rate": 4,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                6,
+                                8
+                            ],
+                            "count": 1,
+                            "level": 3,
+                            "item_type": 9,
+                            "rate": 2,
+                            "win": 6000,
+                            "win_s": "0.60"
+                        }
+                    ],
+                    "next_list": [
+                        6,
+                        11,
+                        5,
+                        9,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        6,
+                        8
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                6,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                5,
+                                10
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "7166056057",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                11,
+                                5,
+                                10,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                27,
+                                3,
+                                9,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                2,
+                                8,
+                                19
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                3,
+                                5,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                11,
+                                8,
+                                10
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 2,
+                    "free_play": 0,
+                    "balance": 99961000,
+                    "balance_s": "9996.10",
+                    "win_s": "1.20",
+                    "win": 12000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        6,
+                        11,
+                        5,
+                        10,
+                        11,
+                        27,
+                        3,
+                        10,
+                        5,
+                        2,
+                        8,
+                        19,
+                        7,
+                        3,
+                        5,
+                        3,
+                        8,
+                        11,
+                        8,
+                        10
+                    ],
+                    "round_rate": 0,
+                    "round": 3,
+                    "multi_time": 3,
+                    "prize_list": null,
+                    "next_list": [
+                        3,
+                        11,
+                        10,
+                        9,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "7869990718",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                6,
+                                11,
+                                5,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                27,
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                5,
+                                2,
+                                8,
+                                19
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                3,
+                                5,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                11,
+                                8,
+                                10
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99961000,
+                    "balance_s": "9996.10",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 19,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 17,
+            "is_end_free": false
+        }
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4"
+    }
+}
+
+
+
+
+2,
+{
+    "error_code": 0,
+    "data": {
+        "bet_list": [
+            {
+                "bet_size": 300,
+                "bet_multiple": 1,
+                "basic_bet": 20,
+                "total_bet": 6000,
+                "id": 1,
+                "bet_size_s": "0.03",
+                "total_bet_s": "0.60"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 2,
+                "basic_bet": 20,
+                "total_bet": 12000,
+                "id": 2,
+                "bet_size_s": "0.03",
+                "total_bet_s": "1.20"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 3,
+                "basic_bet": 20,
+                "total_bet": 18000,
+                "id": 3,
+                "bet_size_s": "0.03",
+                "total_bet_s": "1.80"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 4,
+                "basic_bet": 20,
+                "total_bet": 24000,
+                "id": 4,
+                "bet_size_s": "0.03",
+                "total_bet_s": "2.40"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 5,
+                "basic_bet": 20,
+                "total_bet": 30000,
+                "id": 5,
+                "bet_size_s": "0.03",
+                "total_bet_s": "3.00"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 6,
+                "basic_bet": 20,
+                "total_bet": 36000,
+                "id": 6,
+                "bet_size_s": "0.03",
+                "total_bet_s": "3.60"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 7,
+                "basic_bet": 20,
+                "total_bet": 42000,
+                "id": 7,
+                "bet_size_s": "0.03",
+                "total_bet_s": "4.20"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 8,
+                "basic_bet": 20,
+                "total_bet": 48000,
+                "id": 8,
+                "bet_size_s": "0.03",
+                "total_bet_s": "4.80"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 9,
+                "basic_bet": 20,
+                "total_bet": 54000,
+                "id": 9,
+                "bet_size_s": "0.03",
+                "total_bet_s": "5.40"
+            },
+            {
+                "bet_size": 300,
+                "bet_multiple": 10,
+                "basic_bet": 20,
+                "total_bet": 60000,
+                "id": 10,
+                "bet_size_s": "0.03",
+                "total_bet_s": "6.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 1,
+                "basic_bet": 20,
+                "total_bet": 20000,
+                "id": 11,
+                "bet_size_s": "0.10",
+                "total_bet_s": "2.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 2,
+                "basic_bet": 20,
+                "total_bet": 40000,
+                "id": 12,
+                "bet_size_s": "0.10",
+                "total_bet_s": "4.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 3,
+                "basic_bet": 20,
+                "total_bet": 60000,
+                "id": 13,
+                "bet_size_s": "0.10",
+                "total_bet_s": "6.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 4,
+                "basic_bet": 20,
+                "total_bet": 80000,
+                "id": 14,
+                "bet_size_s": "0.10",
+                "total_bet_s": "8.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 5,
+                "basic_bet": 20,
+                "total_bet": 100000,
+                "id": 15,
+                "bet_size_s": "0.10",
+                "total_bet_s": "10.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 6,
+                "basic_bet": 20,
+                "total_bet": 120000,
+                "id": 16,
+                "bet_size_s": "0.10",
+                "total_bet_s": "12.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 7,
+                "basic_bet": 20,
+                "total_bet": 140000,
+                "id": 17,
+                "bet_size_s": "0.10",
+                "total_bet_s": "14.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 8,
+                "basic_bet": 20,
+                "total_bet": 160000,
+                "id": 18,
+                "bet_size_s": "0.10",
+                "total_bet_s": "16.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 9,
+                "basic_bet": 20,
+                "total_bet": 180000,
+                "id": 19,
+                "bet_size_s": "0.10",
+                "total_bet_s": "18.00"
+            },
+            {
+                "bet_size": 1000,
+                "bet_multiple": 10,
+                "basic_bet": 20,
+                "total_bet": 200000,
+                "id": 20,
+                "bet_size_s": "0.10",
+                "total_bet_s": "20.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 1,
+                "basic_bet": 20,
+                "total_bet": 100000,
+                "id": 21,
+                "bet_size_s": "0.50",
+                "total_bet_s": "10.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 2,
+                "basic_bet": 20,
+                "total_bet": 200000,
+                "id": 22,
+                "bet_size_s": "0.50",
+                "total_bet_s": "20.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 3,
+                "basic_bet": 20,
+                "total_bet": 300000,
+                "id": 23,
+                "bet_size_s": "0.50",
+                "total_bet_s": "30.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 4,
+                "basic_bet": 20,
+                "total_bet": 400000,
+                "id": 24,
+                "bet_size_s": "0.50",
+                "total_bet_s": "40.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 5,
+                "basic_bet": 20,
+                "total_bet": 500000,
+                "id": 25,
+                "bet_size_s": "0.50",
+                "total_bet_s": "50.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 6,
+                "basic_bet": 20,
+                "total_bet": 600000,
+                "id": 26,
+                "bet_size_s": "0.50",
+                "total_bet_s": "60.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 7,
+                "basic_bet": 20,
+                "total_bet": 700000,
+                "id": 27,
+                "bet_size_s": "0.50",
+                "total_bet_s": "70.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 8,
+                "basic_bet": 20,
+                "total_bet": 800000,
+                "id": 28,
+                "bet_size_s": "0.50",
+                "total_bet_s": "80.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 9,
+                "basic_bet": 20,
+                "total_bet": 900000,
+                "id": 29,
+                "bet_size_s": "0.50",
+                "total_bet_s": "90.00"
+            },
+            {
+                "bet_size": 5000,
+                "bet_multiple": 10,
+                "basic_bet": 20,
+                "total_bet": 1000000,
+                "id": 30,
+                "bet_size_s": "0.50",
+                "total_bet_s": "100.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 1,
+                "basic_bet": 20,
+                "total_bet": 500000,
+                "id": 31,
+                "bet_size_s": "2.50",
+                "total_bet_s": "50.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 2,
+                "basic_bet": 20,
+                "total_bet": 1000000,
+                "id": 32,
+                "bet_size_s": "2.50",
+                "total_bet_s": "100.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 3,
+                "basic_bet": 20,
+                "total_bet": 1500000,
+                "id": 33,
+                "bet_size_s": "2.50",
+                "total_bet_s": "150.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 4,
+                "basic_bet": 20,
+                "total_bet": 2000000,
+                "id": 34,
+                "bet_size_s": "2.50",
+                "total_bet_s": "200.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 5,
+                "basic_bet": 20,
+                "total_bet": 2500000,
+                "id": 35,
+                "bet_size_s": "2.50",
+                "total_bet_s": "250.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 6,
+                "basic_bet": 20,
+                "total_bet": 3000000,
+                "id": 36,
+                "bet_size_s": "2.50",
+                "total_bet_s": "300.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 7,
+                "basic_bet": 20,
+                "total_bet": 3500000,
+                "id": 37,
+                "bet_size_s": "2.50",
+                "total_bet_s": "350.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 8,
+                "basic_bet": 20,
+                "total_bet": 4000000,
+                "id": 38,
+                "bet_size_s": "2.50",
+                "total_bet_s": "400.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 9,
+                "basic_bet": 20,
+                "total_bet": 4500000,
+                "id": 39,
+                "bet_size_s": "2.50",
+                "total_bet_s": "450.00"
+            },
+            {
+                "bet_size": 25000,
+                "bet_multiple": 10,
+                "basic_bet": 20,
+                "total_bet": 5000000,
+                "id": 40,
+                "bet_size_s": "2.50",
+                "total_bet_s": "500.00"
+            }
+        ],
+        "default_id": 10,
+        "addSubCombination": [
+            1,
+            2,
+            3,
+            11,
+            5,
+            10,
+            15,
+            20,
+            31,
+            30,
+            35,
+            40
+        ]
+    },
+    "req": {}
+}
+
+
+
+3,
+{
+    "error_code": 0,
+    "data": {
+        "result": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        10,
+                        9,
+                        3,
+                        8,
+                        11,
+                        10,
+                        3,
+                        3,
+                        8,
+                        7,
+                        10,
+                        9,
+                        8,
+                        2,
+                        5,
+                        4,
+                        6,
+                        8,
+                        8,
+                        6
+                    ],
+                    "round_rate": 1,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                0,
+                                5,
+                                10
+                            ],
+                            "count": 1,
+                            "level": 3,
+                            "item_type": 10,
+                            "rate": 1,
+                            "win": 3000,
+                            "win_s": "0.30"
+                        }
+                    ],
+                    "next_list": [
+                        10,
+                        6,
+                        7,
+                        4,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        0,
+                        5,
+                        10
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                10,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                6,
+                                2
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "8757908153",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                10,
+                                9,
+                                3,
+                                8
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                10,
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                7,
+                                10,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                2,
+                                5,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                6,
+                                8,
+                                8,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 1,
+                    "free_play": 0,
+                    "balance": 99904000,
+                    "balance_s": "9990.40",
+                    "win_s": "0.30",
+                    "win": 3000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        10,
+                        9,
+                        3,
+                        8,
+                        6,
+                        11,
+                        3,
+                        3,
+                        7,
+                        8,
+                        7,
+                        9,
+                        8,
+                        2,
+                        5,
+                        4,
+                        6,
+                        8,
+                        8,
+                        6
+                    ],
+                    "round_rate": 0,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": null,
+                    "next_list": [
+                        11,
+                        2,
+                        9,
+                        4,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "9754121153",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                10,
+                                9,
+                                3,
+                                8
+                            ]
+                        },
+                        {
+                            "list": [
+                                6,
+                                11,
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                8,
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                2,
+                                5,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                6,
+                                8,
+                                8,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99904000,
+                    "balance_s": "9990.40",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 1,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 1,
+            "is_end_free": false
+        },
+        "round_no": "8373681332",
+        "order_id": "11-1705455607-H61EHJN2",
+        "balance": 99904000,
+        "balance_before_score": 99961000,
+        "bet": 0,
+        "prize": 3000,
+        "player_win_lose": -57000,
+        "free": false,
+        "free_total_times": 0,
+        "free_remain_times": 0,
+        "free_game_total_win": 0,
+        "dbg": [
+            "使用数组=3, 必杀盈利率=2.50, 权重(10/290)",
+            "本轮是否进免费游戏=false, 随机值=275, 权重(10/290)",
+            "采用数组=3, 随机结果上下浮动=[1~1], 随机值=1",
+            "玩家本次下注=6.00, 中奖=0.30, 输赢=-5.70",
+            "倍率=1",
+            "[Ｊ,Ｑ,大盗,Ｋ,10,Ｊ,大盗,大盗,Ｋ,Ａ,Ｊ,Ｑ,Ｋ,夺宝,饮料,吉他,彩球,Ｋ,Ｋ,彩球,]\n",
+            "[图标:Ｊ, 轴:3, 总线数1, 中奖倍率:1, 乘数:1] ",
+            "[Ｊ,Ｑ,大盗,Ｋ,彩球,10,大盗,大盗,Ａ,Ｋ,Ａ,Ｑ,Ｋ,夺宝,饮料,吉他,彩球,Ｋ,Ｋ,彩球,]\n"
+        ]
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4",
+        "bet": 0,
+        "id": 10,
+        "idempotent": "1705455611975"
+    }
+}
+
+
+
+4,
+{
+    "error_code": 0,
+    "data": {
+        "result": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        3,
+                        11,
+                        11,
+                        8,
+                        8,
+                        8,
+                        11,
+                        4,
+                        4,
+                        8,
+                        23,
+                        9,
+                        7,
+                        10,
+                        25,
+                        23,
+                        4,
+                        7,
+                        6,
+                        6
+                    ],
+                    "round_rate": 6,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                4,
+                                5,
+                                9
+                            ],
+                            "count": 2,
+                            "level": 3,
+                            "item_type": 8,
+                            "rate": 3,
+                            "win": 18000,
+                            "win_s": "1.80"
+                        }
+                    ],
+                    "next_list": [
+                        7,
+                        4,
+                        7,
+                        22,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        4,
+                        5,
+                        9
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                7,
+                                2
+                            ]
+                        },
+                        {
+                            "list": [
+                                2,
+                                4,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                10
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "7462959710",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                3,
+                                11,
+                                11,
+                                8
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                8,
+                                11,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                8,
+                                23,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                10,
+                                25,
+                                23
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                7,
+                                6,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 6,
+                    "free_play": 0,
+                    "balance": 99862000,
+                    "balance_s": "9986.20",
+                    "win_s": "1.80",
+                    "win": 18000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        7,
+                        3,
+                        11,
+                        11,
+                        2,
+                        4,
+                        11,
+                        4,
+                        7,
+                        4,
+                        23,
+                        9,
+                        7,
+                        10,
+                        25,
+                        23,
+                        4,
+                        7,
+                        6,
+                        6
+                    ],
+                    "round_rate": 0,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": null,
+                    "next_list": [
+                        2,
+                        10,
+                        10,
+                        22,
+                        5
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "0852872639",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                7,
+                                3,
+                                11,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                2,
+                                4,
+                                11,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                4,
+                                23,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                10,
+                                25,
+                                23
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                7,
+                                6,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99862000,
+                    "balance_s": "9986.20",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 6,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 6,
+            "is_end_free": false
+        },
+        "round_no": "0446581260",
+        "order_id": "11-1705455614-K4C2H8N9",
+        "balance": 99862000,
+        "balance_before_score": 99904000,
+        "bet": 0,
+        "prize": 18000,
+        "player_win_lose": -42000,
+        "free": false,
+        "free_total_times": 0,
+        "free_remain_times": 0,
+        "free_game_total_win": 0,
+        "dbg": [
+            "使用数组=3, 必杀盈利率=2.50, 权重(10/290)",
+            "本轮是否进免费游戏=false, 随机值=196, 权重(10/290)",
+            "采用数组=3, 随机结果上下浮动=[6~6], 随机值=6",
+            "玩家本次下注=6.00, 中奖=1.80, 输赢=-4.20",
+            "倍率=6",
+            "[大盗,10,10,Ｋ,Ｋ,Ｋ,10,吉他,吉他,Ｋ,金Ａ,Ｑ,Ａ,Ｊ,金Ｑ,金Ａ,吉他,Ａ,彩球,彩球,]\n",
+            "[图标:Ｋ, 轴:3, 总线数2, 中奖倍率:3, 乘数:1] ",
+            "[Ａ,大盗,10,10,夺宝,吉他,10,吉他,Ａ,吉他,金Ａ,Ｑ,Ａ,Ｊ,金Ｑ,金Ａ,吉他,Ａ,彩球,彩球,]\n"
+        ]
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4",
+        "bet": 0,
+        "id": 10,
+        "idempotent": "1705455618413"
+    }
+}
+
+
+
+5,
+{
+    "error_code": 0,
+    "data": {
+        "result": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        8,
+                        8,
+                        11,
+                        4,
+                        4,
+                        3,
+                        7,
+                        11,
+                        8,
+                        8,
+                        4,
+                        3,
+                        7,
+                        9,
+                        11,
+                        7,
+                        10,
+                        6,
+                        9,
+                        7
+                    ],
+                    "round_rate": 8,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                4,
+                                10
+                            ],
+                            "count": 1,
+                            "level": 3,
+                            "item_type": 4,
+                            "rate": 8,
+                            "win": 24000,
+                            "win_s": "2.40"
+                        }
+                    ],
+                    "next_list": [
+                        5,
+                        7,
+                        11,
+                        7,
+                        2
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        4,
+                        10
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                5,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                10
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "4712919652",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                8,
+                                8,
+                                11,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                3,
+                                7,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                8,
+                                4,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                9,
+                                11,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                6,
+                                9,
+                                7
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 8,
+                    "free_play": 0,
+                    "balance": 99826000,
+                    "balance_s": "9982.60",
+                    "win_s": "2.40",
+                    "win": 24000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        5,
+                        8,
+                        8,
+                        11,
+                        7,
+                        3,
+                        7,
+                        11,
+                        11,
+                        8,
+                        8,
+                        3,
+                        7,
+                        9,
+                        11,
+                        7,
+                        10,
+                        6,
+                        9,
+                        7
+                    ],
+                    "round_rate": 6,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                7,
+                                8,
+                                14
+                            ],
+                            "count": 1,
+                            "level": 4,
+                            "item_type": 11,
+                            "rate": 3,
+                            "win": 9000,
+                            "win_s": "0.90"
+                        }
+                    ],
+                    "next_list": [
+                        4,
+                        3,
+                        10,
+                        7,
+                        2
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        7,
+                        8,
+                        14
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "list": [
+                                3,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                5
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                6
+                            ]
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "9076866754",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                5,
+                                8,
+                                8,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                3,
+                                7,
+                                11
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                8,
+                                8,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                9,
+                                11,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                6,
+                                9,
+                                7
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 3,
+                    "free_play": 0,
+                    "balance": 99844000,
+                    "balance_s": "9984.40",
+                    "win_s": "1.80",
+                    "win": 18000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        4,
+                        5,
+                        8,
+                        8,
+                        3,
+                        7,
+                        3,
+                        7,
+                        10,
+                        8,
+                        8,
+                        3,
+                        7,
+                        7,
+                        9,
+                        7,
+                        10,
+                        6,
+                        9,
+                        7
+                    ],
+                    "round_rate": 0,
+                    "round": 3,
+                    "multi_time": 3,
+                    "prize_list": null,
+                    "next_list": [
+                        5,
+                        7,
+                        5,
+                        6,
+                        2
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "7794619509",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                4,
+                                5,
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "list": [
+                                3,
+                                7,
+                                3,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                8,
+                                8,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                7,
+                                9,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                6,
+                                9,
+                                7
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99844000,
+                    "balance_s": "9984.40",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 14,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 11,
+            "is_end_free": false
+        },
+        "round_no": "1571874030",
+        "order_id": "11-1705455622-U2FMHMXQ",
+        "balance": 99844000,
+        "balance_before_score": 99862000,
+        "bet": 0,
+        "prize": 42000,
+        "player_win_lose": -18000,
+        "free": false,
+        "free_total_times": 0,
+        "free_remain_times": 0,
+        "free_game_total_win": 0,
+        "dbg": [
+            "使用数组=3, 必杀盈利率=2.50, 权重(10/290)",
+            "本轮是否进免费游戏=false, 随机值=183, 权重(10/290)",
+            "采用数组=3, 随机结果上下浮动=[14~14], 随机值=14",
+            "玩家本次下注=6.00, 中奖=4.20, 输赢=-1.80",
+            "倍率=14",
+            "[Ｋ,Ｋ,10,吉他,吉他,大盗,Ａ,10,Ｋ,Ｋ,吉他,大盗,Ａ,Ｑ,10,Ａ,Ｊ,彩球,Ｑ,Ａ,]\n",
+            "[图标:吉他, 轴:3, 总线数1, 中奖倍率:8, 乘数:1] ",
+            "[饮料,Ｋ,Ｋ,10,Ａ,大盗,Ａ,10,10,Ｋ,Ｋ,大盗,Ａ,Ｑ,10,Ａ,Ｊ,彩球,Ｑ,Ａ,]\n",
+            "[图标:10, 轴:4, 总线数1, 中奖倍率:3, 乘数:2] ",
+            "[吉他,饮料,Ｋ,Ｋ,大盗,Ａ,大盗,Ａ,Ｊ,Ｋ,Ｋ,大盗,Ａ,Ａ,Ｑ,Ａ,Ｊ,彩球,Ｑ,Ａ,]\n"
+        ]
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4",
+        "bet": 0,
+        "id": 10,
+        "idempotent": "1705455626821"
+    }
+}
+
+
+
+
+4,
+{
+    "error_code": 0,
+    "data": {
+        "result": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        10,
+                        10,
+                        6,
+                        3,
+                        10,
+                        3,
+                        8,
+                        6,
+                        3,
+                        7,
+                        7,
+                        4,
+                        9,
+                        23,
+                        2,
+                        10,
+                        7,
+                        6,
+                        8,
+                        6
+                    ],
+                    "round_rate": 10,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                3,
+                                5,
+                                8
+                            ],
+                            "count": 1,
+                            "level": 3,
+                            "item_type": 3,
+                            "rate": 10,
+                            "win": 30000,
+                            "win_s": "3.00"
+                        }
+                    ],
+                    "next_list": [
+                        4,
+                        11,
+                        7,
+                        27,
+                        3
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        3,
+                        5,
+                        8
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                4,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                11
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "5429264787",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                10,
+                                10,
+                                6,
+                                3
+                            ]
+                        },
+                        {
+                            "list": [
+                                10,
+                                3,
+                                8,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                3,
+                                7,
+                                7,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                23,
+                                2,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                6,
+                                8,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 10,
+                    "free_play": 0,
+                    "balance": 99814000,
+                    "balance_s": "9981.40",
+                    "win_s": "3.00",
+                    "win": 30000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        4,
+                        10,
+                        10,
+                        6,
+                        11,
+                        10,
+                        8,
+                        6,
+                        7,
+                        7,
+                        7,
+                        4,
+                        9,
+                        23,
+                        2,
+                        10,
+                        7,
+                        6,
+                        8,
+                        6
+                    ],
+                    "round_rate": 0,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": null,
+                    "next_list": [
+                        6,
+                        10,
+                        11,
+                        27,
+                        3
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "1372195060",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                4,
+                                10,
+                                10,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                11,
+                                10,
+                                8,
+                                6
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                7,
+                                7,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                23,
+                                2,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                7,
+                                6,
+                                8,
+                                6
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99814000,
+                    "balance_s": "9981.40",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 10,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 10,
+            "is_end_free": false
+        },
+        "round_no": "6236874478",
+        "order_id": "11-1705455630-H39EUJJZ",
+        "balance": 99814000,
+        "balance_before_score": 99844000,
+        "bet": 0,
+        "prize": 30000,
+        "player_win_lose": -30000,
+        "free": false,
+        "free_total_times": 0,
+        "free_remain_times": 0,
+        "free_game_total_win": 0,
+        "dbg": [
+            "使用数组=3, 必杀盈利率=2.50, 权重(10/290)",
+            "本轮是否进免费游戏=false, 随机值=269, 权重(10/290)",
+            "采用数组=3, 随机结果上下浮动=[10~10], 随机值=10",
+            "玩家本次下注=6.00, 中奖=3.00, 输赢=-3.00",
+            "倍率=10",
+            "[Ｊ,Ｊ,彩球,大盗,Ｊ,大盗,Ｋ,彩球,大盗,Ａ,Ａ,吉他,Ｑ,金Ａ,夺宝,Ｊ,Ａ,彩球,Ｋ,彩球,]\n",
+            "[图标:大盗, 轴:3, 总线数1, 中奖倍率:10, 乘数:1] ",
+            "[吉他,Ｊ,Ｊ,彩球,10,Ｊ,Ｋ,彩球,Ａ,Ａ,Ａ,吉他,Ｑ,金Ａ,夺宝,Ｊ,Ａ,彩球,Ｋ,彩球,]\n"
+        ]
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4",
+        "bet": 0,
+        "id": 10,
+        "idempotent": "1705455634557"
+    }
+}
+
+
+
+6,
+{
+    "error_code": 0,
+    "data": {
+        "result": {
+            "round_list": [
+                {
+                    "item_type_list": [
+                        7,
+                        8,
+                        9,
+                        9,
+                        9,
+                        10,
+                        9,
+                        4,
+                        8,
+                        3,
+                        5,
+                        9,
+                        26,
+                        10,
+                        2,
+                        10,
+                        9,
+                        3,
+                        10,
+                        3
+                    ],
+                    "round_rate": 8,
+                    "round": 1,
+                    "multi_time": 1,
+                    "prize_list": [
+                        {
+                            "win_pos_list": [
+                                2,
+                                3,
+                                4,
+                                6,
+                                11
+                            ],
+                            "count": 4,
+                            "level": 3,
+                            "item_type": 9,
+                            "rate": 2,
+                            "win": 24000,
+                            "win_s": "2.40"
+                        }
+                    ],
+                    "next_list": [
+                        7,
+                        4,
+                        8,
+                        6,
+                        2
+                    ],
+                    "list": null,
+                    "win_pos_list": [
+                        2,
+                        3,
+                        4,
+                        6,
+                        11
+                    ],
+                    "dyadic_list": [
+                        {
+                            "list": [
+                                10,
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                10
+                            ]
+                        },
+                        {
+                            "list": null
+                        },
+                        {
+                            "list": null
+                        }
+                    ],
+                    "round_id": "5192310288",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                7,
+                                8,
+                                9,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                10,
+                                9,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                3,
+                                5,
+                                9
+                            ]
+                        },
+                        {
+                            "list": [
+                                26,
+                                10,
+                                2,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                3,
+                                10,
+                                3
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 8,
+                    "free_play": 0,
+                    "balance": 99778000,
+                    "balance_s": "9977.80",
+                    "win_s": "2.40",
+                    "win": 24000,
+                    "player_win_lose_s": ""
+                },
+                {
+                    "item_type_list": [
+                        10,
+                        7,
+                        7,
+                        8,
+                        4,
+                        4,
+                        10,
+                        4,
+                        8,
+                        8,
+                        3,
+                        5,
+                        26,
+                        10,
+                        2,
+                        10,
+                        9,
+                        3,
+                        10,
+                        3
+                    ],
+                    "round_rate": 0,
+                    "round": 2,
+                    "multi_time": 2,
+                    "prize_list": null,
+                    "next_list": [
+                        7,
+                        5,
+                        10,
+                        6,
+                        2
+                    ],
+                    "list": null,
+                    "win_pos_list": null,
+                    "dyadic_list": null,
+                    "round_id": "7106245844",
+                    "gold_change_list": null,
+                    "col_symbol_list": [
+                        {
+                            "list": [
+                                10,
+                                7,
+                                7,
+                                8
+                            ]
+                        },
+                        {
+                            "list": [
+                                4,
+                                4,
+                                10,
+                                4
+                            ]
+                        },
+                        {
+                            "list": [
+                                8,
+                                8,
+                                3,
+                                5
+                            ]
+                        },
+                        {
+                            "list": [
+                                26,
+                                10,
+                                2,
+                                10
+                            ]
+                        },
+                        {
+                            "list": [
+                                9,
+                                3,
+                                10,
+                                3
+                            ]
+                        }
+                    ],
+                    "win_symbol_point": null,
+                    "origin_round_rate": 0,
+                    "free_play": 0,
+                    "balance": 99778000,
+                    "balance_s": "9977.80",
+                    "win_s": "0.00",
+                    "win": 0,
+                    "player_win_lose_s": ""
+                }
+            ],
+            "rate": 8,
+            "scatter_count": 0,
+            "free_play": 0,
+            "scatter_symbol_point": null,
+            "origin_rate": 8,
+            "is_end_free": false
+        },
+        "round_no": "7583903349",
+        "order_id": "11-1705455636-H9J13TMM",
+        "balance": 99778000,
+        "balance_before_score": 99814000,
+        "bet": 0,
+        "prize": 24000,
+        "player_win_lose": -36000,
+        "free": false,
+        "free_total_times": 0,
+        "free_remain_times": 0,
+        "free_game_total_win": 0,
+        "dbg": [
+            "使用数组=3, 必杀盈利率=2.50, 权重(10/290)",
+            "本轮是否进免费游戏=false, 随机值=289, 权重(10/290)",
+            "采用数组=3, 随机结果上下浮动=[8~8], 随机值=8",
+            "玩家本次下注=6.00, 中奖=2.40, 输赢=-3.60",
+            "倍率=8",
+            "[Ａ,Ｋ,Ｑ,Ｑ,Ｑ,Ｊ,Ｑ,吉他,Ｋ,大盗,饮料,Ｑ,金Ｊ,Ｊ,夺宝,Ｊ,Ｑ,大盗,Ｊ,大盗,]\n",
+            "[图标:Ｑ, 轴:3, 总线数4, 中奖倍率:2, 乘数:1] ",
+            "[Ｊ,Ａ,Ａ,Ｋ,吉他,吉他,Ｊ,吉他,Ｋ,Ｋ,大盗,饮料,金Ｊ,Ｊ,夺宝,Ｊ,Ｑ,大盗,Ｊ,大盗,]\n"
+        ]
+    },
+    "req": {
+        "token": "DFECD631A01B49FD88E5A91AB9F655D4",
+        "bet": 0,
+        "id": 10,
+        "idempotent": "1705455640245"
+    }
+}

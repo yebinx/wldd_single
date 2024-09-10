@@ -1,0 +1,20 @@
+
+button_light.png
+size: 286,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniuguang1
+  rotate: true
+  xy: 2, 2
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+anniuguang2
+  rotate: false
+  xy: 156, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

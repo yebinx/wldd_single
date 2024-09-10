@@ -1,0 +1,27 @@
+
+symbol_fg.png
+size: 390,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 228, 2
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 228, 120
+  size: 152, 160
+  orig: 152, 160
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 2, 48
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1

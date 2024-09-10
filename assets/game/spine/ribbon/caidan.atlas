@@ -1,0 +1,13 @@
+
+caidan.png
+size: 20,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_baizhi
+  rotate: false
+  xy: 2, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1

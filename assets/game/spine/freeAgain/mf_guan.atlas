@@ -1,0 +1,97 @@
+
+mf_guan.png
+size: 993,1086
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Guanzzzz
+  rotate: false
+  xy: 419, 8
+  size: 150, 150
+  orig: 156, 158
+  offset: 5, 5
+  index: -1
+gaz
+  rotate: false
+  xy: 250, 11
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 524, 644
+  size: 465, 440
+  orig: 465, 440
+  offset: 0, 0
+  index: -1
+guan2
+  rotate: false
+  xy: 2, 564
+  size: 520, 520
+  orig: 520, 520
+  offset: 0, 0
+  index: -1
+s10
+  rotate: true
+  xy: 2, 4
+  size: 249, 246
+  orig: 299, 264
+  offset: 28, 13
+  index: -1
+s11
+  rotate: true
+  xy: 2, 319
+  size: 243, 244
+  orig: 299, 264
+  offset: 24, 9
+  index: -1
+s12
+  rotate: false
+  xy: 524, 393
+  size: 277, 249
+  orig: 299, 264
+  offset: 22, 1
+  index: -1
+s13
+  rotate: true
+  xy: 250, 318
+  size: 244, 249
+  orig: 299, 264
+  offset: 16, 0
+  index: -1
+s14
+  rotate: true
+  xy: 752, 2
+  size: 251, 224
+  orig: 299, 264
+  offset: 11, 0
+  index: -1
+s15
+  rotate: false
+  xy: 803, 428
+  size: 188, 214
+  orig: 299, 264
+  offset: 9, 0
+  index: -1
+s16
+  rotate: false
+  xy: 803, 255
+  size: 181, 171
+  orig: 299, 264
+  offset: 0, 43
+  index: -1
+s17
+  rotate: true
+  xy: 250, 154
+  size: 162, 167
+  orig: 299, 264
+  offset: 22, 41
+  index: -1
+s9
+  rotate: false
+  xy: 501, 160
+  size: 249, 231
+  orig: 299, 264
+  offset: 21, 25
+  index: -1
