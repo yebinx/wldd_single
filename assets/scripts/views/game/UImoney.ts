@@ -9,6 +9,7 @@ import MoneyUtil from '../../kernel/core/utils/MoneyUtil';
 import { BaseView } from '../../kernel/compat/view/BaseView';
 import GameCtrl from '../../ctrls/GameCtrl';
 import { PopupView } from '../../kernel/compat/view/PopupView';
+import DataManager from '../../network/netData/DataManager';
 
 
 const { ccclass, property } = _decorator;
@@ -18,15 +19,26 @@ export class UImoney extends PopupView {
 
     start() {
         CocosUtil.traverseNodes(this.node, this.m_ui);
+        CocosUtil.addClickEvent(this.node, function () {
+            UIManager.closeView(EViewNames.UImoney);
+        }, this);
         CocosUtil.addClickEvent(this.m_ui.btn_close, function () {
             UIManager.closeView(EViewNames.UImoney);
         }, this);
-        GameCtrl.getIns().reqGetBanlance((b) => {
-            if (this?.node?.isValid) {
-                this.m_ui.lb_money.getComponent(Label).string = MoneyUtil.currencySymbol() + MoneyUtil.rmbStr(b)
-                EventCenter.getInstance().fire(GameEvent.ui_req_loading_complete, this.node)
-            }
-        })
+        // GameCtrl.getIns().reqGetBanlance((b) => {
+        //     if (this?.node?.isValid) {
+        //         this.m_ui.lb_money.getComponent(Label).string = MoneyUtil.currencySymbol() + MoneyUtil.rmbStr(b)
+        //         EventCenter.getInstance().fire(GameEvent.ui_req_loading_complete, this.node)
+        //     }
+        // })
+    }
+
+    protected onEnable(): void {
+        if (this?.node?.isValid) {
+            let tmoney = DataManager.balance;
+            this.m_ui.lb_money.getComponent(Label).string = MoneyUtil.currencySymbol() + MoneyUtil.rmbStr(tmoney);
+            EventCenter.getInstance().fire(GameEvent.ui_req_loading_complete, this.node)
+        } 
     }
 
 }

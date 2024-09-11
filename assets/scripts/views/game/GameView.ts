@@ -586,7 +586,7 @@ export class GameView extends BaseView {
         this.m_ui.button_start.setScale(0, 0, 0);
         this.m_ui.win_free_times_num.getComponent(Label).string = freeNum.toString();
         tween(this.m_ui.free_in_bg.getComponent(UIOpacity)).to(0.5, { opacity: 255 }).call(() => {
-            this.changeEnterFreeBg(freeNum);
+            this.changeEnterFreeBg(freeNum,false,false);
 
             this.m_ui.button_start.active = true;
             tween(this.m_ui.free_in_bg).to(6, { scale: v3(1, 1, 1) }).call(() => {
@@ -704,7 +704,7 @@ export class GameView extends BaseView {
         })
     }
 
-    changeEnterFreeBg(freeNum: number, skipJump?: boolean) {
+    changeEnterFreeBg(freeNum: number, skipJump?: boolean,showCoinInfo:boolean=true) {
         log("changeEnterFreeBg", freeNum);
         !skipJump && this.wheel.getComponent(GameWheel).jumpSpecifyLocation(1);
         this.m_ui.SpinBtn.active = false;
@@ -719,7 +719,7 @@ export class GameView extends BaseView {
         this.m_ui.free_slot.active = true;
         this.m_ui.top_bg.active = true;
         this.m_ui.wheelSp.getComponent(sp.Skeleton).setAnimation(0, "free_wheel", true);
-        this.changeCoinInfoLocal(true);
+        if(showCoinInfo)this.changeCoinInfoLocal(true);
     }
 
     recoverNormalBg() {
@@ -770,6 +770,7 @@ export class GameView extends BaseView {
             tween(this.m_ui.free_start_box.getComponent(UIOpacity)).to(0.5, { opacity: 0 }).call(() => {
                 this.resumeSpin();
                 this.m_ui.free_start_box.active = false;
+                this.changeCoinInfoLocal(true);
                 this.m_ui.button_start.getComponent(Button).interactable = true;
                 GameAudio.switchBgm(BgmType.free);
             }).start();

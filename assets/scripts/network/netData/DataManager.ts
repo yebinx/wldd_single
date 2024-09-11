@@ -23,6 +23,7 @@ export default class DataManager{
     public static betCfg=null;
     public static currBet:number=0;
     public static preTotalFree:number=0;
+    public static balance = 0;
     private static lastRound=null;
     public static getCmdEventName(mainCmdID, SubCmdID, serverTypeStr=null) {
         let tserverTypeStr = serverTypeStr?serverTypeStr:this.serverTypeStr;
@@ -43,6 +44,7 @@ export default class DataManager{
         EventCenter.getInstance().fire("betResp",tdata)
         console.log("betResultComplete",this.betResult,tdata);
         this.lastRound = tdata.result.round_list[tdata.result.round_list.length-1];
+        this.balance = tdata.balance;
         //this.clearClassData();
    }
 
@@ -259,6 +261,7 @@ export default class DataManager{
             tuserinfo.player_info.id=this.tagUserInfoHead.dwUserID.value;
             tuserinfo.player_info.balance = this.tagUserInfoHead.userScoreInfo.lGoldTotal.value;
             //tuserinfo.player_info.nickname = this.tagUserInfoHead
+            this.balance = tuserinfo.player_info.balance;
         }
         return tuserinfo;
    }
